@@ -157,7 +157,7 @@ body.landing .menubar div {
 }
 
 @media screen and (max-width: 1460px) {
-  .landingWraper {
+  .landingWrapper {
     width: 100%
   }
 }
